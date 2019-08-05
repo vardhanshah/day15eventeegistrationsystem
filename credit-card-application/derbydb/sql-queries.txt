@@ -1,0 +1,7 @@
+CREATE TABLE CREDIT_CARD (
+    card_number int,
+    card_holder_name varchar(20),
+    validity_from timestamp,
+    expires_on timestamp,
+    card_type varchar(20)
+);
